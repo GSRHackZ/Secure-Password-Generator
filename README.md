@@ -1,5 +1,5 @@
 # SPG (Secure Password Generator) 🔐
-Generates random secure password near and password input
+Generates random secure password near any password input
 
 <h3>Steps for use: </h3>
 <ol style="margin-bottom:10px;">
